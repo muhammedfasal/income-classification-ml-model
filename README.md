@@ -1,2 +1,2 @@
-# my_ml_service
-My Machine Learning Web Service
+# income-classification-ml-model
+Simple income classification ml django web application
